@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgPYe9lOU2jnSNg4281DTiAMLf2YpGKlNjqL12M03RL4pY7l2V0+SPzQqJjg7jwNLCYzQWVF5aWXmBrR61WElA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\EdgeMotionTimeline\\EdgeMotionTimeline\\EdgeMotionTimeline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jh\\.nuget\\packages\\milestonesystems.videoos.platform\\22.3.0\\milestonesystems.videoos.platform.22.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
