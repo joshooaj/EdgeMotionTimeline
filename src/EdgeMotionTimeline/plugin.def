@@ -1,4 +1,0 @@
-<plugin>
-  <file name="EdgeMotionTimeline.dll"/>
-  <load env="Client" />
-</plugin>

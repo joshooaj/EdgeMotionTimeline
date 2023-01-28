@@ -1,0 +1,4 @@
+<plugin>
+  <file name="EnhancedTimelinePlugin.dll"/>
+  <load env="SmartClient, Administration" />
+</plugin>
